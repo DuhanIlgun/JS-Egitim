@@ -7,7 +7,7 @@ newTtile.textContent="Todo listesi-Yeni";
 
 console.log(cardBody.childNodes[1]);
 
- cardBody.replaceChild(newTtile,cardBody.childNodes[1]);  // yer değiştirmeye yarar ilk kısma yeni olanı diğer tarafa da node şeklinde eskisini yazmamız lazım.
+ cardBody.replaceChild(newTtile,cardBody.childNodes[1]);  // Yer değiştirmeye yarar ilk kısma yeni olanı diğer tarafa da node şeklinde eskisini yazmamız lazım.
 
 
  
