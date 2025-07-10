@@ -1,2 +1,2 @@
-# Angular-Project
+# JavaScript
 JS öğreniyorum
