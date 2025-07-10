@@ -1,2 +1,2 @@
 # Angular-Project
-JS, Angular
+JS öğreniyorum
